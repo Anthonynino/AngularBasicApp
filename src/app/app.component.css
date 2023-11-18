@@ -1,0 +1,18 @@
+header {
+  display: block;
+  height: 60px;
+  padding: 5px 45px 45px 25px;
+  box-shadow: 0px 2px 25px #88e23b;
+  background-color: #88e23b;
+  margin-bottom: 10px;
+}
+
+img {
+  max-width: 210px;
+  margin-left: 10px;
+  margin-bottom: 45px;
+}
+
+.content {
+  padding: 10px 25px 25px 25px;
+}
