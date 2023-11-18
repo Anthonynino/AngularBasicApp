@@ -5,12 +5,12 @@
 }
 
 .listing-photo {
-  height: 500px;
+  max-height: 480px;
   width: 50%;
   object-fit: cover;
   border-radius: 30px;
   float: right;
-  margin-top: 10px;
+  margin-top: 12px;
   margin-right: 10px;
 }
 
